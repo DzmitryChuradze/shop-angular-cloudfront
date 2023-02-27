@@ -1,5 +1,8 @@
 # Shop Angular Cloudfront
 
+- CloudFront URL: https://dzgi8l3owx0ep.cloudfront.net/
+- S3-website: http://rs-school-app-bucket.s3-website-eu-west-1.amazonaws.com/
+
 Angular version: ~12.
 
 Repo maintainers:
